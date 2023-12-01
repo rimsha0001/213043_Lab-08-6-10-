@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\bin\Debug\213043_Qno8_Lab#08.exe.config
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\bin\Debug\213043_Qno8_Lab#08.exe
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\bin\Debug\213043_Qno8_Lab#08.pdb
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\213043_Qno8_Lab#08.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\_213043_Qno8_Lab_08.Form1.resources
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\_213043_Qno8_Lab_08.Properties.Resources.resources
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\213043_Qno8_Lab#08.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\213043_Qno8_Lab#08.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\213043_Qno8_Lab#08.exe
+C:\Users\HP\source\repos\213043_Qno8_Lab#08\213043_Qno8_Lab#08\obj\Debug\213043_Qno8_Lab#08.pdb
